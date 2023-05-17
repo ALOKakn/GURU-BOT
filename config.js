@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497079', 'sandaru', true],
-  ['6281255369012', 'Ash', true], 
+  ['9871830149', 'ALOK', true],
+  ['9871830149', 'Ash', true], 
   [''] 
 ] //Number of owners
 
@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'SANDARU-YT'
+global.botname = 'ALOK-YT'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'ALOK┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
@@ -59,7 +59,7 @@ global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railway.app:6244' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*LOADING PLEASE WAIT....*'
+global.wait = '*RUKO JARA SABAR RAKHO....*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
